@@ -1,3 +1,3 @@
 # First Project
 
-Sketch notes for System Map.
+Use this project for sketches, architecture notes, exports, and shareable visual docs.

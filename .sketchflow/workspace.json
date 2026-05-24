@@ -4,9 +4,10 @@
   "owner": "SH20RAJ",
   "repo": "sketchflow-workspace",
   "defaultBranch": "main",
-  "visibility": "private",
-  "createdAt": "2026-05-23T21:13:57.136Z",
-  "updatedAt": "2026-05-23T21:13:57.136Z",
+  "visibility": "public",
+  "appUrl": "https://sketchflow.shraj.workers.dev",
+  "createdAt": "2026-05-24T04:16:20.302Z",
+  "updatedAt": "2026-05-24T04:16:20.302Z",
   "createdBy": {
     "stackUserId": "ef0684db-79cc-448f-bdaf-d8b0954f1605",
     "githubLogin": "SH20RAJ"

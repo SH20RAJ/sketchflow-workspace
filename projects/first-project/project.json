@@ -2,6 +2,21 @@
   "schemaVersion": 1,
   "id": "first-project",
   "title": "First Project",
-  "updatedAt": "2026-05-24T04:13:51.411Z",
-  "visibility": "public"
+  "visibility": "public",
+  "createdAt": "2026-05-24T04:16:20.302Z",
+  "updatedAt": "2026-05-24T04:16:20.302Z",
+  "sketches": [
+    {
+      "id": "system-map",
+      "title": "System Map",
+      "file": "projects/first-project/sketches/system-map.excalidraw.json"
+    }
+  ],
+  "docs": {
+    "notes": "projects/first-project/docs/notes.md"
+  },
+  "sharing": {
+    "enabled": true,
+    "embed": false
+  }
 }
