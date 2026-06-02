@@ -1,12 +1,34 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-02T02:25:54.891Z",
+  "updatedAt": "2026-06-02T02:45:59.874Z",
   "workspace": {
     "owner": "SH20RAJ",
     "repo": "sketchflow-workspace",
     "defaultBranch": "main"
   },
   "projects": [
+    {
+      "id": "day1",
+      "title": "day1",
+      "visibility": "public",
+      "createdAt": "2026-06-02T02:45:59.874Z",
+      "updatedAt": "2026-06-02T02:45:59.874Z",
+      "projectFile": "projects/day1/project.json",
+      "defaultSketch": "projects/day1/sketches/system-map.excalidraw.json",
+      "defaultSketchId": "system-map",
+      "notesFile": "projects/day1/docs/notes.md",
+      "sketches": [
+        {
+          "id": "system-map",
+          "title": "System Map",
+          "file": "projects/day1/sketches/system-map.excalidraw.json"
+        }
+      ],
+      "sharing": {
+        "enabled": true,
+        "embed": true
+      }
+    },
     {
       "id": "first-project",
       "title": "First Project",
