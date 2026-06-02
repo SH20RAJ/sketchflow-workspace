@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "id": "day1",
-  "title": "day1",
+  "title": "Day1",
   "visibility": "public",
   "createdAt": "2026-06-02T02:45:59.874Z",
-  "updatedAt": "2026-06-02T02:45:59.874Z",
+  "updatedAt": "2026-06-02T02:54:48.265Z",
   "projectFile": "projects/day1/project.json",
   "defaultSketch": "projects/day1/sketches/system-map.excalidraw.json",
   "sketches": [
