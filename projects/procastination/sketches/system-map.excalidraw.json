@@ -2,192 +2,7 @@
   "type": "excalidraw",
   "version": 2,
   "source": "https://sketchflow.space",
-  "elements": [
-    {
-      "id": "Eo_Yc7GZNhyNF-P0l23bL",
-      "type": "freedraw",
-      "x": 542.74609375,
-      "y": 265.15625,
-      "width": 191.22265625,
-      "height": 308.96875,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "a0",
-      "roundness": null,
-      "seed": 114480251,
-      "version": 38,
-      "versionNonce": 457747547,
-      "isDeleted": false,
-      "boundElements": null,
-      "updated": 1781879410776,
-      "link": null,
-      "locked": false,
-      "points": [
-        [
-          0,
-          0
-        ],
-        [
-          0,
-          0.12109375
-        ],
-        [
-          0,
-          9.34375
-        ],
-        [
-          0,
-          41.265625
-        ],
-        [
-          0,
-          91.8046875
-        ],
-        [
-          0,
-          139.76171875
-        ],
-        [
-          0,
-          181.43359375
-        ],
-        [
-          0,
-          212.375
-        ],
-        [
-          0,
-          232.65625
-        ],
-        [
-          0,
-          252.140625
-        ],
-        [
-          2.10546875,
-          266.6953125
-        ],
-        [
-          7.5546875,
-          277.1875
-        ],
-        [
-          16.78125,
-          287.36328125
-        ],
-        [
-          30.0390625,
-          297.3828125
-        ],
-        [
-          46.07421875,
-          304.4140625
-        ],
-        [
-          64.59765625,
-          307.95703125
-        ],
-        [
-          88.37890625,
-          308.96875
-        ],
-        [
-          110.97265625,
-          308.96875
-        ],
-        [
-          125.9140625,
-          307.52734375
-        ],
-        [
-          135.578125,
-          304.8125
-        ],
-        [
-          140.546875,
-          302.5625
-        ],
-        [
-          142.58984375,
-          300.80078125
-        ],
-        [
-          143.765625,
-          297.7578125
-        ],
-        [
-          145.57421875,
-          288.984375
-        ],
-        [
-          148.93359375,
-          263.5078125
-        ],
-        [
-          155.98046875,
-          226.77734375
-        ],
-        [
-          167.30078125,
-          186.35546875
-        ],
-        [
-          177.2890625,
-          151.20703125
-        ],
-        [
-          184,
-          127.515625
-        ],
-        [
-          188.7109375,
-          111.3359375
-        ],
-        [
-          190.69921875,
-          103.96875
-        ],
-        [
-          191.22265625,
-          100.54296875
-        ],
-        [
-          191.22265625,
-          99.09375
-        ],
-        [
-          191.22265625,
-          98.52734375
-        ],
-        [
-          191.22265625,
-          98.1796875
-        ],
-        [
-          191.22265625,
-          97.92578125
-        ],
-        [
-          191.22265625,
-          97.92578125
-        ]
-      ],
-      "pressures": [],
-      "simulatePressure": true,
-      "lastCommittedPoint": [
-        191.22265625,
-        97.92578125
-      ]
-    }
-  ],
+  "elements": [],
   "appState": {
     "viewBackgroundColor": "#ffffff",
     "showWelcomeScreen": true,
@@ -214,7 +29,7 @@
     "editingGroupId": null,
     "editingLinearElement": null,
     "activeTool": {
-      "type": "freedraw",
+      "type": "selection",
       "customType": null,
       "locked": false,
       "lastActiveTool": null
@@ -237,7 +52,7 @@
     "isRotating": false,
     "lastPointerDownWith": "mouse",
     "multiElement": null,
-    "name": "Untitled-2026-06-19-1959",
+    "name": "Untitled-2026-06-19-2000",
     "contextMenu": null,
     "openMenu": null,
     "pasteDialog": {
@@ -277,7 +92,10 @@
     "showHyperlinkPopup": false,
     "selectedLinearElement": null,
     "snapLines": [],
-    "originSnapOffset": null,
+    "originSnapOffset": {
+      "x": 0,
+      "y": 0
+    },
     "objectsSnapModeEnabled": false,
     "userToFollow": null,
     "followedBy": {},
