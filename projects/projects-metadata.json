@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-19T14:23:34.878Z",
+  "updatedAt": "2026-06-19T14:30:12.229Z",
   "workspace": {
     "owner": "SH20RAJ",
     "repo": "sketchflow-workspace",
@@ -53,10 +53,10 @@
     },
     {
       "id": "procastination",
-      "title": "procastination",
+      "title": "Procastination",
       "visibility": "public",
       "createdAt": "2026-06-19T14:23:34.878Z",
-      "updatedAt": "2026-06-19T14:23:34.878Z",
+      "updatedAt": "2026-06-19T14:30:12.227Z",
       "projectFile": "projects/procastination/project.json",
       "defaultSketch": "projects/procastination/sketches/system-map.excalidraw.json",
       "defaultSketchId": "system-map",
