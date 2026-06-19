@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "procastination",
+  "title": "procastination",
+  "visibility": "public",
+  "createdAt": "2026-06-19T14:23:34.878Z",
+  "updatedAt": "2026-06-19T14:23:34.878Z",
+  "projectFile": "projects/procastination/project.json",
+  "defaultSketch": "projects/procastination/sketches/system-map.excalidraw.json",
+  "sketches": [
+    {
+      "id": "system-map",
+      "title": "System Map",
+      "file": "projects/procastination/sketches/system-map.excalidraw.json"
+    }
+  ],
+  "docs": {
+    "notes": "projects/procastination/docs/notes.md"
+  },
+  "sharing": {
+    "enabled": true,
+    "embed": true
+  }
+}
